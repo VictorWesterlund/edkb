@@ -1,9 +1,13 @@
-# Elite Dangerous - Keyboard
+# Elite Dangerous - Multi-purpose keybinds
 
-QoL keybinds to supercharge your *~FSD~* **Elite Dangerous experience**. 
+These binds were created to provide quick access to useful exploration, combat and miscellaneous flight functions based on my personal play style.
 
-### These binds are only suited for commanders using HOTAS or DualShock/Xbox controllers
+**Intended for commanders using HOTAS or DualShock/Xbox controllers;** as WASD becomes rebinded.
 
-Optional printable overlay for the [**DELTACO TB-632**](https://web.archive.org/web/20210320211506/https://www.deltaco.se/produkter/deltaco/datortillbeh%C3%B6r/tangentbord/tr%C3%A5dl%C3%B6sa/mini/TB-632) wireless mini keyboard can be found [here](#).
+The binds were (sorta carefully, sorta organically) chosen in reference to a cheap wireless keyboard I picked up specifially for this purpose. Key placements might not make as much sense depending on your keyboard.
+
+## [**DELTACO TB-632**](https://web.archive.org/web/20210320211506/https://www.deltaco.se/produkter/deltaco/datortillbeh%C3%B6r/tangentbord/tr%C3%A5dl%C3%B6sa/mini/TB-632) Wireless Mini Keyboard
 
 ![image](https://user-images.githubusercontent.com/35688133/111885597-088fb680-89c9-11eb-877f-9cbb93e69154.png)
+
+Optional printable overlay for the [**TB-632**](https://web.archive.org/web/20210320211506/https://www.deltaco.se/produkter/deltaco/datortillbeh%C3%B6r/tangentbord/tr%C3%A5dl%C3%B6sa/mini/TB-632) keyboard can be found [here](#).
