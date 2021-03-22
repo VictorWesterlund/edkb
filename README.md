@@ -1,6 +1,6 @@
 # Elite Dangerous - Multi-purpose keybinds
 
-These binds were created to provide quick access to useful exploration, combat and miscellaneous flight functions based on my personal play style.
+These binds were created to provide quick access to useful exploration, combat and miscellaneous flight functions.
 
 **Intended for commanders using HOTAS or DualShock/Xbox controllers;** as WASD are rebinded.
 
