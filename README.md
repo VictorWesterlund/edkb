@@ -8,6 +8,14 @@ The binds were (sorta carefully, sorta organically) chosen in reference to a che
 
 ## [**DELTACO TB-632**](https://web.archive.org/web/20210320211506/https://www.deltaco.se/produkter/deltaco/datortillbeh%C3%B6r/tangentbord/tr%C3%A5dl%C3%B6sa/mini/TB-632) Wireless Mini Keyboard
 
-![image](https://user-images.githubusercontent.com/35688133/111885597-088fb680-89c9-11eb-877f-9cbb93e69154.png)
+![image](https://user-images.githubusercontent.com/35688133/111930141-7bc42600-8ab8-11eb-8df2-2c9ce413343b.png)
 
 *Optional printable overlay for the [**TB-632**](https://web.archive.org/web/20210320211506/https://www.deltaco.se/produkter/deltaco/datortillbeh%C3%B6r/tangentbord/tr%C3%A5dl%C3%B6sa/mini/TB-632) keyboard can be found [here](#).*
+
+## Installing
+
+[Download the `.binds` file](https://github.com/VictorWesterlund/edkb/releases) and drop it into your ED bindings folder at:
+
+```
+C:\users\[USER]\AppData\Local\Frontier Developments\EliteDangerous\Options\Bindings
+```
