@@ -2,7 +2,7 @@
 
 These binds were created to provide quick access to useful exploration, combat and miscellaneous flight functions.
 
-**Intended for commanders using HOTAS or DualShock/Xbox controllers;** as WASD are rebinded.
+**Intended for commanders using HOTAS or DualShock/Xbox controllers;** as WASD are rebonded.
 
 The binds were (sorta carefully, sorta organically) chosen in reference to a cheap wireless keyboard I picked up specifially for this purpose. Key placements might not make as much sense depending on your keyboard.
 
